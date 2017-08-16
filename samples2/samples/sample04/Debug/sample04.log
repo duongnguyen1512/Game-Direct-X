@@ -1,0 +1,23 @@
+﻿Build started 11/08/2017 17:26:19.
+     1>Project "G:\NM_Game\training\sample\sample_code\samples2\samples\sample04\sample04.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ColoredRect.cpp Sprite.cpp VideoDriver.cpp main.cpp
+         main.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         VideoDriver.cpp
+         Sprite.cpp
+         ColoredRect.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\NM_Game\training\sample\sample_code\samples2\samples\Debug\sample04.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\NM_Game\training\sample\sample_code\samples2\samples\Debug\sample04.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\NM_Game\training\sample\sample_code\samples2\samples\Debug\sample04.lib" /MACHINE:X86 Debug\ColoredRect.obj
+         Debug\GameObject.obj
+         Debug\GTexture.obj
+         Debug\main.obj
+         Debug\Sprite.obj
+         Debug\VideoDriver.obj
+         sample04.vcxproj -> G:\NM_Game\training\sample\sample_code\samples2\samples\Debug\sample04.exe
+     1>Done Building Project "G:\NM_Game\training\sample\sample_code\samples2\samples\sample04\sample04.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.40
